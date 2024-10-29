@@ -30,18 +30,25 @@ public class UIBlight {
         //Q1
         questions.add("Apakah tanah menunjukkan tanda-tanda erosi (seperti lapisan atas yang hilang");
         //Q2
-        questions.add("oyyyyyyyy");
-        questions.add("Apakah Anda melihat adanya retakan atau rekahan pada permukaan tanah?");
+        questions.add("Apakah anda melihat aliran air membawa partikel tanah");
         //Q3
-        questions.add("Apakah tanah di area ini lebih keras atau lebih sulit untuk digali dibandingkan biasanya?");
+        questions.add("Apakah Anda melihat adanya retakan atau rekahan pada permukaan tanah?");
         //Q4
-        questions.add("Apakah tanah terlihat sangat kering?");
+        questions.add("Apakah tanah di area ini lebih keras atau lebih sulit untuk digali dibandingkan biasanya?");
         //Q5
-        questions.add("Apakah ada perubahan warna pada tanah (misalnya menjadi lebih pucat atau lebih gelap dari biasanya)?");
+        questions.add("Apakah tanah terlihat sangat kering?");
         //Q6
-        questions.add("Apakah Anda mengalami G10?");
+        questions.add("Apakah tanah terlihat sangat basah?");
         //Q7
-        questions.add("Apakah Anda mengalami G10?");
+        questions.add("Apakah ada perubahan warna pada tanah menjadi pucat?");
+        //Q8
+        questions.add("Apakah ada perubahan warna pada tanah menjadi gelap?");
+        //Q9
+        questions.add("Apakah terdapat lapisan garam pada tanah?");
+        //Q10
+        questions.add("Apakah ada mencium bau busuk pada tanah?");
+        //Q11
+        questions.add("Apakah tanah berbau bahan kimia?");
     }
     
     public void showQuestion()
