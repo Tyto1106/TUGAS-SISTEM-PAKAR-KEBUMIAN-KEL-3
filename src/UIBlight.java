@@ -30,7 +30,7 @@ public class UIBlight {
         //Q1
         questions.add("Apakah tanah menunjukkan tanda-tanda erosi (seperti lapisan atas yang hilang");
         //Q2
-        questions.add("");
+        questions.add("oyyyyyyyy");
         questions.add("Apakah Anda melihat adanya retakan atau rekahan pada permukaan tanah?");
         //Q3
         questions.add("Apakah tanah di area ini lebih keras atau lebih sulit untuk digali dibandingkan biasanya?");
