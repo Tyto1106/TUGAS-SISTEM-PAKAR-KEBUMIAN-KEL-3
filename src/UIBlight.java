@@ -49,6 +49,7 @@ public class UIBlight {
         questions.add("Apakah ada mencium bau busuk pada tanah?");
         //Q11
         questions.add("Apakah tanah berbau bahan kimia?");
+        questions.add("Apakah tanah berbau EEQ?");
     }
     
     public void showQuestion()
