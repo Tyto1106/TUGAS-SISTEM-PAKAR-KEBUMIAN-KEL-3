@@ -33,7 +33,7 @@ public class UILeafRust {
         //Q3
         questions.add("Apakah Anda mengalami G13?");
         //Q4
-        questions.add("Apakah Anda mengalami G14?");
+        questions.add("Apakah Anda mengalami G3x?");
         
     }
     
