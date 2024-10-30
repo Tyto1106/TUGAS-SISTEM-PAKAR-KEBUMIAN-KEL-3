@@ -93,11 +93,11 @@ public class UIBlight {
         System.out.println("Inferred facts: " + inferedFacts);
         if(blight == true)
         {
-            System.out.println("iya iya iya blight");
+            System.out.println("iya blight");
         }
         else
         {
-            System.out.println("tidak tidak tidak blight");
+            System.out.println("tidak blight");
         }
     }
 }
